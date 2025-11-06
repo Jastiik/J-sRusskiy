@@ -3,3 +3,5 @@
 Мод есть в стиме!
 
 Стим -> https://steamcommunity.com/sharedfiles/filedetails/?id=3504996701
+
+Github -> https://github.com/Jastiik/J-sRusskiy
