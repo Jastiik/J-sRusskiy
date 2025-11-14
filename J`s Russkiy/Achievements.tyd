@@ -40,6 +40,6 @@ BUYOUTSTREAKAchievement [ "Йоньк!"; "Купите больше 5 компа
 
 COPYGOLDAchievement     [ "CTRL-C CTRL-$"; "Попробуйте копировать драг метал" ]
 
-PLATINUMAchievement [ "The GOAT"; "Получить платиновую награду, после пятелетней череды побед" ]
+PLATINUMAchievement [ "Легендарный из Величайших"; "Получить платиновую награду, после пятелетней череды побед" ]
 
 FEATURECREEPAchievement     [ "Ползучесть функций"; "Используй все функции игры {FeaturesLeft}" ]
