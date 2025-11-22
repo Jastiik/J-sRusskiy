@@ -2604,7 +2604,7 @@ Are you sure you want to continue?"
 	Expenses "Расходы"
 	Other "Другое"
 	Item { Name "Addon"; Plural "Addons"; Value "{0} [Дополнение|Дополнения]" }
-	DevelopAddon "Разработать дополнение"
+	DevelopAddon "Разработать dls"
 	Issues "Проблемы"
 	Messages "Сообщения"
 	Previous "Предыдущий"
@@ -3444,3 +3444,4 @@ Are you sure you want to continue?"
 	BasedOnReviews "основано на {0} отзывов"
 	PositiveReviews "{0} полож. отзывов"
 	RecentReviews "Недавние отзывы"
+
